@@ -4,7 +4,7 @@
 <AppModule
   xmlns="http://xmlns.oracle.com/bc4j"
   Name="HrModule"
-  Version="12.2.1.20.47"
+  Version="12.2.1.9.14"
   InheritPersonalization="merge"
   ClearCacheOnRollback="true">
   <ViewUsage
@@ -19,4 +19,7 @@
   <ViewUsage
     Name="EmployeesView2"
     ViewObjectName="com.redsamurai.model.views.EmployeesView"/>
+  <ViewUsage
+    Name="DepartmentsView1"
+    ViewObjectName="com.redsamurai.model.views.DepartmentsView"/>
 </AppModule>

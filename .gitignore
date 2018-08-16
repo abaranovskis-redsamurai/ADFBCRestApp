@@ -1,0 +1,8 @@
+
+*.jdb
+*.lck
+*.class
+*.ear
+*.os_xml
+*.lok
+src/ovd/default/schema.user.xml
