@@ -182,7 +182,7 @@
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="ADFBCRestApp"/>
-      <value n="j2eeWebContextRoot" v="restapp"/>
+      <value n="j2eeWebContextRoot" v="rsrestapp"/>
    </hash>
    <hash n="oracle.jdeveloper.runner.RunConfigurations">
       <hash n="runConfigurationDefinitions">
